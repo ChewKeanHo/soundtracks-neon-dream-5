@@ -1,27 +1,29 @@
 TITLE
-🎧 | [MUSIC TITLE HERE]
+🎧 | Neon Dream 5
 
 
 
 
 DESCRIPTION
-[DESCRIPTION HERE THAT CAN BE POSTED ON SOCIAL MEDIA]
+Steady as she goes. Let us make more varieties for video production use. Here is the 5th version.
 
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #synth #passionate #instrumental
 
 
 § COLLECTIONS
 ━━━━━━━━━━━━
-Album Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
-Genre Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
+Album Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAi3x1T9ifHcU3_61XDNEWlI
+Genre Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAj72y4anUY9YZ3vVZlvydGL
 
 
 § METADATA
 ━━━━━━━━━━
 Music made in: https://www.udio.com/
+Video made in: https://vizzy.io/
 Project by: (Holloway) Chew, Kean Ho
+Lyrics by: (Holloway) Chew, Kean Ho + AI translation assistance
 Music License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
-Repository: [REPOSITORY_HERE]
+Repository: https://github.com/ChewKeanHo/soundtracks-neon-dream-5
 
 
 § FAQ
@@ -64,4 +66,4 @@ I just see A.I. is the next step forward and I want it to augment me; not resist
 
 
 TAGS
-electronicmusic, soundtrack
+electronicmusic, drum, energetic, melodious, mysterious, passionate, optimistic, progressive electronic, modern synthwave, synthwave, melodic techno, electro house, upbeat rhythm, upbeat, analog & digital synths, futuristic groove, piano layers, emotional yet energetic, emotional
